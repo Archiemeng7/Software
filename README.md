@@ -82,9 +82,9 @@ https://github.com/weiqimeng7
 [全网软件下载](https://mp.weixin.qq.com/s/BO_d6OOe3nJVqOtB3MxBnA)
 
 
+# 📚其他补充
 
-
-
+[全网资源嗅探](https://github.com/xifangczy/cat-catch)
 [会声会影2018旗舰版v21.3.0.114 汉化直装破解版+官方手动破解版](https://masuit.com/181)
 [会声会影全套插件下载](https://masuit.com/182)
 
